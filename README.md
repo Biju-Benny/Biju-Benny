@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Biju-Benny
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Deep learning
+- 👀 I’m interested in Android Developent
 - 📫 How to reach me bbiju53@yahoo.com
 
 <!---
